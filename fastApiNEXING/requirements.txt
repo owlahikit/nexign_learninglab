@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+requests
+pillow
+ultralytics
+openpyxl
+io
